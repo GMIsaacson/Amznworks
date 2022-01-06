@@ -1,0 +1,19 @@
+
+
+
+
+
+
+.App-header {
+  background-color: #ebf0ea;
+  min-height: 10vh;
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  
+  color: rgb(7, 0, 0);
+}
+
+
